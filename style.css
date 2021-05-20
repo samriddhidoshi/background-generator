@@ -1,0 +1,28 @@
+html,body{
+    background-color: beige;
+    font: 400;
+    color: black;
+    
+}
+#sam{
+    margin: 0px 700px ;
+    padding: 2px;
+    font-size: 60px;
+    color: darkblue;
+
+}
+.samc{
+    color: brown;
+    font-size: large;
+    margin: 0px 700px;
+    font-size: xx-large;
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+.insert{
+    color: black;
+    font: 500;
+}
